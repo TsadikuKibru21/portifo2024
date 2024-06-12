@@ -13,7 +13,12 @@ const Contact = () => {
         is always open. Whether you have a question or just want to say hi, I’ll
         try my best to get back to you!
       </p>
-
+      <p className="font-titleFont text-2xl font-semibold text-textDark">
+        Name : Tsadiku Kibru
+      </p>
+      <p className="font-titleFont text-2xl font-semibold text-textDark">
+        Phone : +251973506505
+      </p>
       <a href="mailto:tsadikuk@gmail.com">
         <button className="w-40 h-14 border border-textGreen mt-6 font-titleFont text-sm text-textGreen tracking-wider rounded-md hover:bg-hoverColor duration-300">
           Say Hello
