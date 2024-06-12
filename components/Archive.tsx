@@ -80,7 +80,7 @@ const Archive = () => {
               transition={{ delay: 0.2 }}
             >
               <ArchiveCard
-                title="Noor Online Shopping Store"
+                title="Tsadiku Online Shopping Store"
                 des=" Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
             laudantium velit qui sint non, voluptates quo a veritatis."
                 listItem={["Reactjs", "Tailwind CSS", "redux-toolkit"]}
