@@ -13,7 +13,7 @@ const About = () => {
       <div className="flex flex-col lgl:flex-row gap-16">
         <div className="w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
           <p>
-          Hi, I'm Tsadiku. I am a Software developer within computer science who develops and maintains web applications. I am experienced in Odoo ERP Development and Customization. and also backend technologies such as PHP and Django, as well as frontend technologies including HTML, CSS, JavaScript, and Bootstrap. I take pride in the quality of my work and my commitment to learning. My objective is to create satisfied customers while continuing to learn and grow in my field. I am confident in my abilities and look forward to taking on new challenges and opportunities
+          Hi, I &apos;m Tsadiku. I am a Software developer within computer science who develops and maintains web applications. I am experienced in Odoo ERP Development and Customization. and also backend technologies such as PHP and Django, as well as frontend technologies including HTML, CSS, JavaScript, and Bootstrap. I take pride in the quality of my work and my commitment to learning. My objective is to create satisfied customers while continuing to learn and grow in my field. I am confident in my abilities and look forward to taking on new challenges and opportunities
           </p>
           
           <p>Here are a few technologies I have been working with recently:</p>
